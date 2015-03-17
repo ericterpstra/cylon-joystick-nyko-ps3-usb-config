@@ -1,0 +1,34 @@
+{
+  "description": "NYKO PS3 Controller",
+
+  "vendorID": 4933,
+  "productID": 12296,
+
+  "axis": [
+    { "name": "left_x", "id": 0 },
+    { "name": "left_y", "id": 1 },
+    { "name": "right_x", "id": 2 },
+    { "name": "right_y", "id": 3 },
+    { "name": "dpad_x", "id": 4 },
+    { "name": "dpad_y", "id": 5 }
+  ],
+
+  "buttons": [
+    { "name": "square", "id": 3 },
+    { "name": "triangle", "id": 0 },
+    { "name": "circle", "id": 1 },
+    { "name": "x", "id": 2 },
+
+    { "name": "left_stick", "id": 10 },
+    { "name": "right_stick", "id": 11 },
+
+    { "name": "l1", "id": 4 },
+    { "name": "l2", "id": 6 },
+
+    { "name": "r1", "id": 5 },
+    { "name": "r2", "id": 7 },
+
+    { "name": "start", "id": 9 },
+    { "name": "select", "id": 8 }
+  ]
+}

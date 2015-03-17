@@ -1,0 +1,18 @@
+{
+  "name": "nyko-ps3-cylon-config",
+  "version": "1.0.0",
+  "description": "A cylon-joystick config for a Nyko USB PS3 Controller",
+  "main": "test-joystick.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cylon-joystick"
+  ],
+  "author": "Eric Terpstra",
+  "license": "ISC",
+  "dependencies": {
+    "cylon": "^0.22.1",
+    "cylon-joystick": "^0.14.0"
+  }
+}
